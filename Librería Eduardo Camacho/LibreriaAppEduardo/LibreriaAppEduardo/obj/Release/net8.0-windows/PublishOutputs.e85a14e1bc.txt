@@ -1,0 +1,5 @@
+C:\Users\mcedu\OneDrive\Escritorio\Librería Eduardo Camacho\LibreriaAppEduardo.exe
+C:\Users\mcedu\OneDrive\Escritorio\Librería Eduardo Camacho\LibreriaAppEduardo.dll
+C:\Users\mcedu\OneDrive\Escritorio\Librería Eduardo Camacho\LibreriaAppEduardo.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Librería Eduardo Camacho\LibreriaAppEduardo.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Librería Eduardo Camacho\LibreriaAppEduardo.pdb
