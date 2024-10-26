@@ -1,0 +1,14 @@
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\bin\Release\net8.0\Library_Eduardo_Camacho_Console.exe
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\bin\Release\net8.0\Library_Eduardo_Camacho_Console.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\bin\Release\net8.0\Library_Eduardo_Camacho_Console.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\bin\Release\net8.0\Library_Eduardo_Camacho_Console.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\bin\Release\net8.0\Library_Eduardo_Camacho_Console.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.AssemblyInfoInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.AssemblyInfo.vb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.vbproj.CoreCompileInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\refint\Library_Eduardo_Camacho_Console.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\Library_Eduardo_Camacho_Console.genruntimeconfig.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console\Library_Eduardo_Camacho_Console\obj\Release\net8.0\ref\Library_Eduardo_Camacho_Console.dll

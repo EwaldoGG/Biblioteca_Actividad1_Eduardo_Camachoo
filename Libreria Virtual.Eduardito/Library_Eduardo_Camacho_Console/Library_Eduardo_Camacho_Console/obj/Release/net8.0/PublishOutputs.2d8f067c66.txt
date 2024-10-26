@@ -1,0 +1,5 @@
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console.exe
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.Eduardito\Library_Eduardo_Camacho_Console.pdb
